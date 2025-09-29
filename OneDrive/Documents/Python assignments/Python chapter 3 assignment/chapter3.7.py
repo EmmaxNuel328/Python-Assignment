@@ -1,9 +1,6 @@
 number = 0
+square = 1
 cube = 0
 for number in range(6):
-	number = number**2
-	print(number, end = "")
-for cube in range(6):
-	cube = cube**3
-	print(cube)
- 	
+	print(number,number**2,number**3)
+	
