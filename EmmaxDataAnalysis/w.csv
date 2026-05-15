@@ -1,0 +1,98 @@
+language,example
+python,print("Hello, world!")
+javascript,console.log("Hello, world!");
+sql,SELECT * FROM table;
+html,<div>Hello</div>
+java,System.out.println("Hello, world!");
+csharp,Console.WriteLine("Hello, world!");
+cpp,std::cout << "Hello, world!";
+c,printf("Hello, world!");
+ruby,puts "Hello, world!"
+php,echo "Hello, world!";
+swift,print("Hello, world!")
+kotlin,println("Hello, world!")
+go,fmt.Println("Hello, world!")
+rust,println!("Hello, world!");
+typescript,console.log("Hello, world!");
+perl,print "Hello, world!\n";
+r,print("Hello, world!")
+matlab,disp('Hello, world!')
+lua,print("Hello, world!")
+scala,println("Hello, world!")
+groovy,println "Hello, world!"
+clojure,(println "Hello, world!")
+haskell,putStrLn "Hello, world!"
+elixir,IO.puts("Hello, world!")
+erlang,io:fwrite("Hello, world!~n").
+objective_c,NSLog(@"Hello, world!");
+vb,MsgBox("Hello, world!")
+pascal,WriteLn('Hello, world!');
+delphi,ShowMessage('Hello, world!');
+fortran,PRINT *, 'Hello, world!'
+cobol,DISPLAY "Hello, world!".
+ada,Put_Line("Hello, world!");
+algol,print("Hello, world!")
+scheme,(display "Hello, world!")
+lisp,(format t "Hello, world!")
+prolog,write('Hello, world!').
+dart,print('Hello, world!');
+julia,println("Hello, world!")
+groovy_alt,println("Hello, world!")
+ballerina,io:println("Hello, world!");
+crystal,puts "Hello, world!"
+nim,echo "Hello, world!"
+zig,std.debug.print("Hello, world!\n", .{});
+odin,fmt.println("Hello, world!")
+v,println("Hello, world!")
+vlang,println("Hello, world!")
+ziggy,print("Hello, world!")
+raku,say "Hello, world!"
+powershell,Write-Host "Hello, world!"
+bash,echo "Hello, world!"
+shell,echo "Hello, world!"
+zsh,echo "Hello, world!"
+fish,echo "Hello, world!"
+tcl,puts "Hello, world!"
+javaScript_node,console.log("Hello, world!");
+python_alt,sys.stdout.write("Hello, world!")
+ruby_alt,$stdout.puts "Hello, world!"
+perl_alt,STDOUT->print("Hello, world!\n");
+php_alt,fwrite(STDOUT, "Hello, world!");
+c_alt,write(1, "Hello, world!", 13);
+cpp_alt,std::cerr << "Hello, world!";
+java_alt,System.err.println("Hello, world!");
+csharp_alt,Console.Error.WriteLine("Hello, world!");
+swift_alt,fputs("Hello, world!", stderr)
+kotlin_alt,System.err.println("Hello, world!")
+go_alt,fmt.Fprint(os.Stderr, "Hello, world!")
+rust_alt,eprintln!("Hello, world!");
+typescript_alt,console.error("Hello, world!");
+objective_c_alt,NSLog(@"%@", @"Hello, world!");
+vb_alt,Debug.Print "Hello, world!"
+pascal_alt,Writeln(Output, 'Hello, world!');
+delphi_alt,OutputDebugString('Hello, world!');
+fortran_alt,WRITE(*, *) 'Hello, world!'
+cobol_alt,DISPLAY "Hello, world!" UPON CONSOLE.
+ada_alt,Ada.Text_IO.Put_Line("Hello, world!");
+scheme_alt,(display "Hello, world!\n")
+lisp_alt,(write "Hello, world!")
+prolog_alt,writeln('Hello, world!').
+dart_alt,stdout.write('Hello, world!');
+julia_alt,print("Hello, world!")
+ballerina_alt,io:print("Hello, world!");
+crystal_alt,STDOUT.print "Hello, world!"
+nim_alt,stdout.write("Hello, world!")
+zig_alt,try stdout.print("Hello, world!", .{});
+odin_alt,os.write(os.stdout, "Hello, world!")
+raku_alt,put "Hello, world!"
+powershell_alt,[Console]::Write("Hello, world!")
+bash_alt,printf "Hello, world!"
+shell_alt,printf "Hello, world!"
+fish_alt,printf "Hello, world!"
+tcl_alt,puts -nonewline "Hello, world!"
+assembly,mov eax, 4; mov ebx, 1; mov ecx, msg; mov edx, 13; int 0x80
+webassembly,(i32.const 0) (i32.const 0) (i32.load)
+coffeescript,console.log "Hello, world!"
+purescript,logShow "Hello, world!"
+idris,putStrLn "Hello, world!"
+agda,printStr "Hello, world!"
