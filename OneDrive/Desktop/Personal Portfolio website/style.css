@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 0px;
+    padding: 20px;
+    padding-bottom: 0%;
+    align-items: center;
+    a{
+        text-decoration: none;
+        color: white;
+        &:hover{
+            color: #007BFF;
+        }
+    }
+    .nav, li{
+        display: flex;
+        gap: 20px;
+        
+        text-decoration: none;
+        
+    }   
+}
+
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 100px;
+    margin-left:400px;
+}
